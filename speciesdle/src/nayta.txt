@@ -1,0 +1,5 @@
+Notes to nayta
+
+pip install geopandas folium matplotlib mapclassify
+
+Map should always be in coordinate system EPSG:4326.
